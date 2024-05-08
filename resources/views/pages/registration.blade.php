@@ -48,7 +48,7 @@
                 <button type="submit" style="margin-left: 263px;" class="btn btn-success">Sign Up</button>
             </div>
             <div style="text-align: center;">
-                <a href="">Already Account?</a>
+                <a href="{{route('user.login')}}">Already Account?</a>
             </div>
         </form>
     </div>
